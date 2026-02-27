@@ -22,14 +22,14 @@
 </p>
 
 ---
+
+
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MrAryanShah&show_icons=true&theme=tokyonight" height="180">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAryanShah&layout=compact&theme=tokyonight" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=MrAryanShah&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAryanShah&layout=compact&theme=tokyonight&cache_seconds=1800" height="180"/>
 </p>
-
----
 
 ### 🔥 Streak Stats
 
