@@ -26,10 +26,9 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=MrAryanShah&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MrAryanShah&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAryanShah&layout=compact&theme=tokyonight" />
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrAryanShah&layout=compact&theme=tokyonight" />
 
 ### 🔥 Streak Stats
 
